@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yptheangel/yptheangel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello World, Welcome to Choo Wilson's page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am working on Deep Learning and Mobile App Development. Feel free to ping me.
 
 ### Markdown
 
