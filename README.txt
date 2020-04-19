@@ -1,1 +1,0 @@
-Go to "yptheangel.github.io" to see my portfolio displayed correctly in style.
